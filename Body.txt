@@ -1,0 +1,7 @@
+Hi All,
+
+The scheduler task has been stopped as it has been running for long than two hours.
+Please have a look ASAP. 
+
+Regards
+system

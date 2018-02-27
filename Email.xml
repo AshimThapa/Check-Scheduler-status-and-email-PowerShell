@@ -1,0 +1,9 @@
+<emaillist>
+	<group id="IT">
+		<emailid>a2123@test.com</emailid>
+		<emailid>........</emailid>
+	</group>
+	<group id="Admin">
+		<emailid>admin@admin.com</emailid>
+	</group>
+</emaillist>
